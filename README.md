@@ -4,7 +4,7 @@
 - 🌱 I’m currently focussing my learning React as I wasn't completely happy with what I took away from my finishing the frontend developer course at Scrimba.
 - 💞️ I’m looking to collaborate on projects that aim have a positive social and environmental affect on the world.
 - 📫 How to reach me:
--     E-mail: charlotte.stone649@gmail.com
+-     E-mail: charlie.stone649@gmail.com
 
 <!---
 Jonafieg/Jonafieg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
